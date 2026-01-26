@@ -15,4 +15,6 @@ The goal of the project is to extract the public available parcels of a city. (T
 - <b>Windows 11</b>
 - <b>QGIS</b>
 
+<h2>Made on 1/26/2026 by GENTI Edwin </h2>
+
 
