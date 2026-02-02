@@ -24,3 +24,6 @@ The script is based on a schema created by Thibault Lecourts, my university prof
 <h2>References</h2>
 - <b>Lecourt Thibault</b>
 
+<br><br>
+- <b>Version française de ce projet : https://github.com/EdwinGenti/Domaine_Public_Modeleur_Graphique</b>
+
