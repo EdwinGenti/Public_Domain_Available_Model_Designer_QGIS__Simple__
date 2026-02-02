@@ -14,13 +14,13 @@ The script is based on a schema created by Thibault Lecourts, my university prof
 
 
 
-<h2>Environments and software Used </h2>
+<h2>Environment and software Used </h2>
 
 - <b>Windows 11</b>
 - <b>QGIS</b>
 
 <h2>Made on 1/26/2026 by GENTI Edwin </h2>
 
-<h2References</h2>
+<h2>References</h2>
 - <b>Lecourt Thibault</b>
 
